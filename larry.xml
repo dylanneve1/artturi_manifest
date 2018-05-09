@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   
+  <remote  name="Galaxy-MSM8916"
+           fetch="https://github.com"
+           review="review.msm8916.com"
+           revision="lineage-15.1" />
+  
   <!-- Detective Pepe -->
   <project path="device/qcom/common" name="LineageOS/android_device_qcom_common"/>
   
